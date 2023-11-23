@@ -1,5 +1,4 @@
-
-Road Accident Excel Dashboard
+#Road Accident Excel Dashboard
 
 
 This Excel dashboard project aims to analyze and visualize road accident data to provide insights into key metrics and trends. The dashboard incorporates various charts and tables to make the information easily understandable.
